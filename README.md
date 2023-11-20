@@ -1,0 +1,2 @@
+# SimpleJS
+Simple Javascript Project
