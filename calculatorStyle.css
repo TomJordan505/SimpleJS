@@ -1,0 +1,10 @@
+.buttonStyle {
+    background:#012a4a;
+    font-size:30px;
+}
+input.NumpadBtns {
+    background: #012a4a;
+}
+.mainWindow{
+    border: 2px solid powderblue;
+}
